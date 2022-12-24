@@ -1,4 +1,4 @@
 # SimpleBankAppliction
 Console base application
-To perform bank transaction using console
-Using java
+to perform bank transaction create account, check balance, show balance, withrow amount
+
